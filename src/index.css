@@ -3,3 +3,22 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+:root {
+  --main-bg-color: brown;
+
+  --tokyo-color-1: violet;
+  --tokyo-color-2: violet;
+  --tokyo-color-3: violet;
+  --tokyo-color-4: violet;
+
+}
+
+
+.App{
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
